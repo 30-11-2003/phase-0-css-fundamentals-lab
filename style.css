@@ -23,7 +23,10 @@ figcaption {
 }
 footer #details div{
   text-align: center;
-  float:left
+  float:left;
+  background-color: red;
+  color: black;
+  width: 25 %;
 }
   
   
